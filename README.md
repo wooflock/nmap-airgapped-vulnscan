@@ -18,6 +18,7 @@ and run:
 
 The result will resemble the normal nmap scan, but you will also have a nice scan.json file with all the data from vulns at your fingertip.
 
+This is what the output will look like:
 ```
 
 $ python3 xml2onlinevulns-scan.py -i scan_results.xml -o kalle.json -v
